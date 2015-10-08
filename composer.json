@@ -1,5 +1,5 @@
 {
-    "name": "vdespa/vtiger",
+    "name": "myracloud/vtiger",
     "type": "library",
     "description": "Vtiger Web Services PHP Client Library",
     "keywords": ["vtiger", "webservices", "vtwsclib"],
