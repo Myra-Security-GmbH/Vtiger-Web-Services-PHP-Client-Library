@@ -7,7 +7,7 @@
     "license": "The MIT License (MIT)",
     "require": {
         "php": ">=5.4",
-        "guzzlehttp/guzzle": "4.*"
+        "guzzlehttp/guzzle": "^6"
     },
     "autoload": {
         "psr-4": {
